@@ -1,5 +1,4 @@
 
-vless://e114f1eb-f114-4d7f-b26e-ac094c0c9e2c@v1.asdc.ir:5151?path=%2F1&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0#R1-5151-SmartVpn
+vless://e114f1eb-f114-4d7f-b26e-ac094c0c9e2c@v1.asdc.ir:5151?path=%2F1&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0#SmartVpn
 
-
-vless://aa64f861-dde7-4f7b-9173-b6eeb0bb2be4@v2.asdc.ir:8181?path=%2F&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0#US1-8181-SmartVpn
+vless://aa64f861-dde7-4f7b-9173-b6eeb0bb2be4@v2.asdc.ir:8181?path=%2F&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0#v2-SmartVpn
